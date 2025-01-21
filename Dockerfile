@@ -1,1 +1,1 @@
-FROM aryanchuadhary449/bot1:v2
+FROM aryanchaudhary449/bot1:v2
